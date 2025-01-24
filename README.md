@@ -36,8 +36,8 @@ I welcome contributions! If you spot a typo, have a suggestion, or want to add s
 
 ## Socials
 Let's connect! 🌐
-- **GitHub**: [mnmustafa1109/logn](https://github.com/mnmustafa1109/logn)
-- **Email**: [Personal Email](mailto:mnmustafa1109@gmail.com)
+- **GitHub**: [mnmustafa1109](https://github.com/mnmustafa1109)
+- **Email**: [mnmustafa1109@gmail.com](mailto:mnmustafa1109@gmail.com)
 
 [//]: # (- **LinkedIn**: [Noman Mustafa]&#40;https://www.linkedin.com/in/noman-mustafa-1109/&#41;)
 
