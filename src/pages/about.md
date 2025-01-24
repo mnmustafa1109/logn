@@ -8,8 +8,8 @@ I have worked on a variety of projects ranging from software applications to gam
 a coding enthusiast since I was a kid and have always been fascinated by the power of technology. I like looking for new
 challenges and opportunities to learn and grow. Recently from few years my focus has moved to Software Architecture Design and Cloud Engineering which I am really loving.
 
-I am also the founder of [Lyoko Studio](https://lyoko.studio) a software development company that specializes in building custom software and hosting solutions for businesses.
-And a consultant for [Panther Studios](https://panther-studios.com/). My latest ventures is [Altify Cloud](https://altify.cloud) which helps small to medium businesses optimize and reduce their cloud costs.
+I am the founder of [Lyoko Studio](https://lyoko.studio) a software development company that specializes in building custom software and hosting solutions for businesses.
+And a consultant for [Panther Studios](https://panther-studios.com/) which is a web design and development studio working with individuals and businesses. My latest ventures is [Altify Cloud](https://altify.cloud) which helps small to medium businesses optimize and reduce their cloud costs.
 
 These are some of my past achievements and goals:
 
