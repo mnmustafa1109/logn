@@ -1,7 +1,7 @@
 ---
 title: The issue with dynamically typed languages
 author: Noman Mustafa Mehar
-pubDatetime: 2025-01-28T02:05:51Z
+pubDatetime: 2025-01-28T01:00:00+05:00
 featured: true
 draft: false
 tags:
