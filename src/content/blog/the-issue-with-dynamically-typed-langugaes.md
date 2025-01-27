@@ -26,7 +26,7 @@ This focus on simplicity is what led to its widespread adoption.
 
 ## The Novice Appeal and Its Consequences
 
-A language where you don’t need to worry about **types**, **brackets**, or **OOP concepts** is perfect for beginners. Or in a use case where you don’t need to make a fully functional software that you need to maintain for the coming decade. But after the popularity of **Python** and **JavaScript**, people started to use these languages in all sorts of environments where it doesn’t really make sense.
+A language where you don’t need to worry about **types**, **brackets**, or **OOP concepts** is perfect for beginners. Or in a use case where you don’t need to make a fully functional software that you need to maintain for the coming decade. But after the popularity of similar languages to **Python** and **JavaScript**, people started to use these languages in all sorts of environments where it doesn’t really make sense.
 
 **Python** or other such scripting languages are great for:
 
@@ -38,7 +38,7 @@ A language where you don’t need to worry about **types**, **brackets**, or **O
 
 These languages are perfect for these scenarios as you don’t need to worry about potential future bugs or extensibility. You can code once, use it, and then just throw it away or keep reusing it if the requirements are the same.
 
-But when you are trying to start something **big**, something **meaningful** that you need to present to the public, or something that has **great business value** and will be something you’ll have to rely on for years to come—a lot of other people will be touching and working with that code—then we should stop using **Python**, **Ruby**, or **JavaScript**.
+But when you are trying to start something **big**, something **meaningful** that you need to present to the public, or something that has **great business value** and will be something you’ll have to rely on for years to come—a lot of other people will be touching and working with that code—then we should stop using languages like **Python**, **Ruby**, or **JavaScript**.
 
 ---
 
