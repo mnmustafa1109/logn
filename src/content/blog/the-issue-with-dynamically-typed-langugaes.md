@@ -62,7 +62,7 @@ It does really remove a lot of pain points and potential issues that might arise
 
 ## Structure Ensures Consistency
 
-In the book *Think Like a CTO*, there’s a great saying:
+In the book *Think Like a CTO* by Alan Williamson, there’s a very unrelated but a great saying:
 
 > "Structures ensure consistency."
 
