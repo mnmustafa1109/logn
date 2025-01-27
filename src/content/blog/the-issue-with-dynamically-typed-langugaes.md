@@ -86,5 +86,5 @@ Ensuring a lot of structure in terms of:
 
 **TL;DR**: For old programmers and developers, we should not just jump to the latest and greatest just because it’s trendy and fancy but really analyze what’s being sacrificed when we move to languages that seem convenient to write code in.
 
-For newcomers, I would really recommend trying and exploring different languages, especially something like **Zig**, **Java**, or **C++**—languages that are close to **Java** or **C** (languages that are strongly typed and enforces you write in proper programming paradigms). And we should all really think about whether we are using the right tool for the right job because **Python** is hella good in the scenarios I explained above.
+For newcomers, I would really recommend trying and exploring different languages, especially something like **Zig**, **Java**, or **C++**—languages that are close to **Java** or **C** (languages that are strongly typed and enforces you write in a certain programming paradigms). And we should all really think about whether we are using the right tool for the right job because **Python** is hella good in the scenarios I explained above.
 
