@@ -64,13 +64,13 @@ It does really remove a lot of pain points and potential issues that might arise
 
 In the book *Think Like a CTO* by Alan Williamson, there’s a very unrelated but a great saying:
 
-> "Structures ensure consistency."
+> Structures ensure consistency.
 
 Programming languages like **Rust** and **Java** ensure we code in a certain way. It is hard to adapt to these requirements and get used to them. But over the long run, it ensures we are writing something that operates and behaves **consistently**—unlike, well, you might have seen all the **JavaScript memes**.
 
 As **Martin Fowler**, a thought leader in software engineering, once said:
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 Ensuring a lot of structure in terms of:
 
