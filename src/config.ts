@@ -16,8 +16,8 @@ export const SITE = {
     text: "Suggest Changes", // Custom text from your previous config
     url: "https://github.com/mnmustafa1109/logn/edit/main/", // Updated base URL. Note: The new format doesn't directly support appending file path, you might need to handle this in your Astro component if necessary.
   },
-  dynamicOgImage: false, // Assuming you don't need dynamic OG images unless specified
-  dir: "ltr", // "rtl" | "auto"
+  dynamicOgImage: true, // Assuming you don't need dynamic OG images unless specified
+  dir: "auto", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Bangkok", // Default global timezone (IANA format) - Using the sample's default
+  timezone: "Asia/Karachi", // Default global timezone (IANA format) - Using the sample's default
 } as const;
