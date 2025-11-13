@@ -1,23 +1,23 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  website: "https://nmustafa.dev/", // Your deployed domain
+  author: "Noman Mustafa",
+  profile: "https://nmustafa.dev/",
+  desc: "Sharing my experiences and insight as a Software Architect and Cloud Engineer.",
+  title: "Log of M",
+  ogImage: "logo.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
-  postPerPage: 4,
+  postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
-  showBackButton: true, // show back button in post detail
+  showBackButton: true, // Assuming you want to keep the back button enabled
   editPost: {
-    enabled: true,
-    text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    enabled: true, // Enabled for editing
+    text: "Suggest Changes", // Custom text from your previous config
+    url: "https://github.com/mnmustafa1109/logn/edit/main/", // Updated base URL. Note: The new format doesn't directly support appending file path, you might need to handle this in your Astro component if necessary.
   },
-  dynamicOgImage: true,
+  dynamicOgImage: false, // Assuming you don't need dynamic OG images unless specified
   dir: "ltr", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Bangkok", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  timezone: "Asia/Bangkok", // Default global timezone (IANA format) - Using the sample's default
 } as const;
